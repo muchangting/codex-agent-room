@@ -1,0 +1,9 @@
+Codex Agent Room is a local adaptation of Agent Chat.
+Upstream: https://github.com/Alex-R-A/multi-agent-collaboration-mcp
+Pinned source commit: 189b979fa5676fab633e10fd9c6587a1556fde9a (0.17.1).
+Upstream code and web interface are licensed under Apache-2.0.
+Modifications: MCP Apps embedding, local API bridge, Chinese interface labels,
+light messenger theme, human/agent avatars, group information and task cards,
+Codex coordination tools, asynchronous Gemini worker and durable task status.
+Selected upstream sources and their license are included in vendor/agent-chat.
+The displayed product name and icons are original; no WeChat/QQ assets are used.

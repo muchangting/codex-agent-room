@@ -1,0 +1,14 @@
+{
+  "name": "codex-agent-room",
+  "version": "0.2.0",
+  "description": "微信式浅色群聊：Codex 统筹与验收，Gemini 独立分析、整理和审查。",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "license": "Apache-2.0",
+  "interface": {
+    "displayName": "AI 协作群",
+    "shortDescription": "和你的 AI 团队一起工作",
+    "category": "Productivity",
+    "composerIcon": "./docs/icon.svg"
+  }
+}

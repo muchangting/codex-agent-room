@@ -1,0 +1,12 @@
+{
+  "name": "agent-room-local",
+  "interface": { "displayName": "Agent Room" },
+  "plugins": [
+    {
+      "name": "codex-agent-room",
+      "source": { "source": "local", "path": "./" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_USE" },
+      "category": "Productivity"
+    }
+  ]
+}

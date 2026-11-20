@@ -1,0 +1,17 @@
+node_modules/
+dist/
+vendor/agent-chat/dist/
+.mcp.json
+.env
+.env.*
+!.env.example
+*.db
+*.db-*
+*.sqlite*
+*.log
+*.tgz
+review-result.json
+review-*.json
+.DS_Store
+.playwright-mcp/
+coverage/
